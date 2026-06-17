@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d7051b1-7194-4d07-b543-b9577b908115" name="Changes" comment="Criação do desafio Dio - Inter Java POO.">
+      <change afterPath="$PROJECT_DIR$/../.idea/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dio-Lab-Azure-BD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dio-Lab-Azure/Dio-Lab-Azure" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dio-Test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dio-Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dio-Test/.idea/awsToolkit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dio-Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dio-Test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dio-Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dio-Test/Dio-Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dio-Test/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DioMeBradescoDesafio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DioMeContaBancoProject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DioMeJava/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DioMeJava/DioMe Bradesco UML.asta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/DESAFIO-DIO-BANK" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/DioMe-Bradesco" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/Porject-Spring-Maven-Java-With-Lombok-Dio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/Project-Azure-IA-Dio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/Project-Spring-JPA-Data-Dio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/Project-Spring-Web-API-Swagger-Dio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/Project-Spring-Web-Data-Dio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GitHub/Resumo-do-Lab-Dio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JogoSudoku" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/estruturacondicional/bradesco/CondicaoTernaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/estruturacondicional/bradesco/ControleComposto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/estruturacondicional/bradesco/ControleEncadeada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/estruturacondicional/bradesco/ControleSimples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/estruturacondicional/bradesco/SwitchCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/estruturarepeticao/bradesco/BreakContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/estruturarepeticao/bradesco/Enquanto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/estruturarepeticao/bradesco/FacaEnquanto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/estruturarepeticao/bradesco/Para.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/estruturarepeticao/bradesco/ParaColecao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/estruturasexceptions/Aula01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/estruturasexceptions/Aula02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/estruturasexceptions/CepInvalidException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/estruturasexceptions/FormatCepExemp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/exercicio/bradesco/Exerc01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/exercicio/bradesco/Exerc02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/intrducaoclass/bradesco/BoletimEstudantil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/intrducaoclass/bradesco/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/methods/bradesco/Aula01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/methods/bradesco/SmarTv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/operador/bradesco/Operador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Old/src/main/java/com/tipovariavel/bradesco/VarType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud/.idea/AndroidProjectSystem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud/.idea/awsToolkit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cloud/Project-Spring-Gradle-Dio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/src/main/java/dio/project/spring/web/jwt/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/src/main/java/dio/project/spring/web/jwt/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/src/main/java/dio/project/spring/web/jwt/controller/UserControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/src/main/java/dio/project/spring/web/jwt/controller/WelcomeControll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/src/main/java/dio/project/spring/web/jwt/dto/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/src/main/java/dio/project/spring/web/jwt/dto/Sessao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/src/main/java/dio/project/spring/web/jwt/model/UserMod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/src/main/java/dio/project/spring/web/jwt/repository/IUserRepos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/src/main/java/dio/project/spring/web/jwt/security/JWTCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/src/main/java/dio/project/spring/web/jwt/security/JWTFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/src/main/java/dio/project/spring/web/jwt/security/JWTObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/src/main/java/dio/project/spring/web/jwt/security/SecurityConfi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/src/main/java/dio/project/spring/web/jwt/security/WebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/src/main/java/dio/project/spring/web/jwt/service/UserServ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project.spring.web.jwt/src/test/java/dio/project/spring/web/jwt/ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring.web.security/Project-Web-Security-Dio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/estruturacondicional/bradesco/CondicaoTernaria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/estruturacondicional/bradesco/ControleComposto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/estruturacondicional/bradesco/ControleEncadeada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/estruturacondicional/bradesco/ControleSimples.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/estruturacondicional/bradesco/SwitchCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/estruturarepeticao/bradesco/BreakContinue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/estruturarepeticao/bradesco/Enquanto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/estruturarepeticao/bradesco/FacaEnquanto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/estruturarepeticao/bradesco/Para.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/estruturarepeticao/bradesco/ParaColecao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/estruturasexceptions/Aula01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/estruturasexceptions/Aula02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/estruturasexceptions/CepInvalidException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/estruturasexceptions/FormatCepExemp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/exercicio/bradesco/Exerc01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/exercicio/bradesco/Exerc02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/intrducaoclass/bradesco/BoletimEstudantil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/intrducaoclass/bradesco/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/methods/bradesco/Aula01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/methods/bradesco/SmarTv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/operador/bradesco/Operador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/tipovariavel/bradesco/VarType.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "gabrielsalesdavid"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/gabrielsalesdavid/Bradesco.git",
+    "accountId": "45ad9b2b-2401-4e30-be94-47c536f3e3fe"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.000000162864158" />
+      <entry key="MS500" value="1.051100678673906" />
+      <entry key="S2" value="1.8593417128261627" />
+      <entry key="S5" value="3.790784053805273" />
+      <entry key="S10" value="6.356422107373351" />
+      <entry key="S30" value="10.138261573785766" />
+      <entry key="S60" value="12.38579324256509" />
+      <entry key="M2" value="15.150425975798983" />
+      <entry key="M5" value="18.444699791420195" />
+      <entry key="M10" value="20.043926059856428" />
+      <entry key="M15" value="20.65234986621417" />
+      <entry key="M30" value="21.30329271846158" />
+      <entry key="H1" value="21.645713415313697" />
+      <entry key="H2" value="21.821346052225778" />
+      <entry key="H4" value="21.91029187887398" />
+      <entry key="D1" value="21.98499541106647" />
+      <entry key="W1" value="21.997855179663176" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9265882127988625" />
+      <entry key="MS500" value="1.0352332744400057" />
+      <entry key="S2" value="1.8527288760104954" />
+      <entry key="S5" value="3.785493130198255" />
+      <entry key="S10" value="6.351908415077274" />
+      <entry key="S30" value="10.134034678354826" />
+      <entry key="S60" value="12.376357242093057" />
+      <entry key="M2" value="15.137605870174172" />
+      <entry key="M5" value="18.435035365269126" />
+      <entry key="M10" value="20.037937560570345" />
+      <entry key="M15" value="20.64806036919475" />
+      <entry key="M30" value="21.30098803391378" />
+      <entry key="H1" value="21.644518825290497" />
+      <entry key="H2" value="21.820737899894006" />
+      <entry key="H4" value="21.90998505065194" />
+      <entry key="D1" value="21.984943887559353" />
+      <entry key="W1" value="21.997847809679563" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3FHcq960JWvOzQvBLlVaKtc2PVq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Gabriel Sales David/Documents/Estudos/Cursos/Tecnologia/Dio.me/BootCamp/Java/Bradesco/Desafio-Dio-Inter-Java-POO/src/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gabriel Sales David\Documents\Estudos\Cursos\Tecnologia\Dio.me\BootCamp\Java\Inter" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d7051b1-7194-4d07-b543-b9577b908115" name="Changes" comment="" />
+      <created>1781735627138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781735627138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criação do desafio Dio - Inter Java POO." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação do desafio Dio - Inter Java POO." />
+  </component>
+</project>
